@@ -709,8 +709,8 @@ subscribe
 */
 
 #call-to-action {
-  padding: 120px 0px;
-  background-image: url(../images/cta-bg.jpg);
+  padding: 100px 0px;
+  background-image: url(../images/cybersecurity/1.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -813,6 +813,7 @@ Our Classes
   transition: all 0.3s;
 }
 .tabs-content img {
+  max-height: 280px;
   max-width: 100%;
   overflow: hidden;
   border-radius: 5px;
@@ -840,7 +841,7 @@ schedule
 
 #schedule {
   padding: 0px 0px 140px 0px;
-  background-image: url(../images/schedule-bg.jpg);
+  background-image: url(../images/cybersecurity/4_dark.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1001,7 +1002,7 @@ contact
 */
 
 #contact-us {
-  margin-top: 140px;
+  margin-top: 0px;
 }
 
 #contact-us .container-fluid .col-lg-6 {
