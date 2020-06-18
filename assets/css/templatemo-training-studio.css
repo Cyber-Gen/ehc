@@ -952,6 +952,9 @@ trainers
 
 #trainers .trainer-item img {
   width: 100%;
+  height: width;
+/*  width: 200px;
+  height: 200px;*/
   border-radius: 5px;
 }
 
