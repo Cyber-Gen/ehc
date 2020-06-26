@@ -216,14 +216,14 @@ header
   color: #232d39!important;
 }
 
-.background-header .main-nav .nav li:last-child a {
+/*.background-header .main-nav .nav li:last-child a {
   color: #fff !important;
 }
-
-.background-header .main-nav .nav li:last-child a:hover {
+*/
+/*.background-header .main-nav .nav li:last-child a:hover {
   color: #fff!important;
 }
-
+*/
 .background-header .main-nav .nav li:hover a {
   color: #ed563b!important;
 }
@@ -308,7 +308,7 @@ header
   color: #fff;
 }
 
-.header-area .main-nav .nav li:last-child a {
+/*.header-area .main-nav .nav li:last-child a {
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
@@ -322,11 +322,11 @@ header
   height: auto;
   line-height: 20px;
 }
-
-.header-area .main-nav .nav li:last-child a:hover {
+*/
+/*.header-area .main-nav .nav li:last-child a:hover {
   background-color: #f9735b;
   opacity: 1;
-}
+}*/
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
@@ -514,19 +514,19 @@ header
   .header-area .main-nav .nav li:first-child {
     border-top: 1px solid #eee;
   }
-  .header-area .main-nav .nav li:last-child {
+/*  .header-area .main-nav .nav li:last-child {
     width: 100%;
     background-color: #ed563b;
     color: #fff;
   }
   .header-area .main-nav .nav li:last-child a {
     background-color: #ed563b!important;
-  }
-  .header-area .main-nav .nav li:last-child a:hover,
+  }*/
+/*  .header-area .main-nav .nav li:last-child a:hover,
   .header-area .main-nav .nav li:last-child:hover a {
     background-color: #ed563b!important;
     color: #fff!important;
-  }
+  }*/
   .header-area.header-sticky .nav {
     margin-top: 80px !important;
   }
@@ -545,9 +545,9 @@ header
     background: #f7f7f7 !important;
     color: #232d39 !important;
   }
-  .header-area .main-nav .nav li:last-child a {
+/*  .header-area .main-nav .nav li:last-child a {
     color: #fff!important;
-  }
+  }*/
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
     color: #ed563b!important;
@@ -955,6 +955,7 @@ trainers
   height: width;
 /*  width: 200px;
   height: 200px;*/
+  /*position: relative;*/
   border-radius: 5px;
 }
 
