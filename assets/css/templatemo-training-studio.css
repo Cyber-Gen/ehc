@@ -305,7 +305,7 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #fff;
+  color: #AEAEAE;
 }
 
 /*.header-area .main-nav .nav li:last-child a {
@@ -1251,4 +1251,25 @@ responsive
   .feature-item .right-content a.text-button {
     margin-left: 130px;
   }
+}
+
+
+
+.sponsor{
+  /*width: 150px;*/
+  height: 350px;
+  padding: 50px;
+  /*display: grid;*/
+}
+
+@media (max-width: 992px) {
+.sponsor{
+  /*width: 150px;*/
+  height: 250px;
+  padding: 0px;
+  margin-left: 15%;
+  margin-bottom: 20%;
+  position: center;
+}
+
 }
