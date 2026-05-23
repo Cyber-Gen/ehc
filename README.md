@@ -1,7 +1,8 @@
-## Welcome to Ethical Hacking Club
+# Ethical Hacking Club Website (Archived)
 
-https://uh-ehc.github.io/ehc/
+This is the archived official website for the University of Houston Ethical Hacking Club.
 
+Legacy site:
 
-### Support or Contact
-
+- [GitHub](https://uh-ehc.github.io/ehc)
+- [ethicalhacking.club](https://ethicalhacking.club)
